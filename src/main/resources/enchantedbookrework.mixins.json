@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_21",
+  "package": "net.phazoganon.enchantedbookrework.mixin",
+  "refmap": "mixins.enchantedbookrework.refmap.json",
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": [
+    "enchant.EnchantmentHelperMixin"
+  ]
+}
