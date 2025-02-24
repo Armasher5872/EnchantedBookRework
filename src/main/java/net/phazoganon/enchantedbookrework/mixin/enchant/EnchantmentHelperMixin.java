@@ -1,6 +1,5 @@
 package net.phazoganon.enchantedbookrework.mixin.enchant;
 
-import net.minecraft.world.inventory.AnvilMenu;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Items;
 import net.minecraft.world.item.enchantment.EnchantmentHelper;
